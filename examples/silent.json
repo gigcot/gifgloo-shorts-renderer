@@ -1,0 +1,8 @@
+{
+  "title": "음성 없이도 자막",
+  "items": [
+    {"path": "assets/original.png", "caption": "원본 이미지"},
+    {"path": "assets/result.gif", "caption": "완성된 GIF"}
+  ],
+  "output_path": "../output/silent.mp4"
+}

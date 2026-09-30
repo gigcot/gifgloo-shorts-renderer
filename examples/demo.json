@@ -1,0 +1,10 @@
+{
+  "title": "사진과 GIF 합성",
+  "bgm_path": "assets/bgm.wav",
+  "items": [
+    {"path": "assets/original.png", "caption": "이 사진을"},
+    {"path": "assets/source.gif", "caption": "이 움짤에 넣으면"},
+    {"path": "assets/result.gif", "caption": "이렇게 움직여요"}
+  ],
+  "output_path": "../output/demo.mp4"
+}
